@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect account of a strange and dreadful apparition which lately infested and sunk a ship bound for New-Castle, called, The Hope-well of London. And of the strange deliverance of John Pye master, and nine men more; who were all examined and sworn to the following relation before Justice Wood of London. With allowance. Roger L'Estrange, March 30. 1672.</title>
+            <author>Pye, John, Master.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04889</idno>
+            <idno type="STC">Wing P4254</idno>
+            <idno type="STC">ESTC R223312</idno>
+            <idno type="EEBO-CITATION">52612216</idno>
+            <idno type="OCLC">ocm 52612216</idno>
+            <idno type="VID">179521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179521)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2792:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect account of a strange and dreadful apparition which lately infested and sunk a ship bound for New-Castle, called, The Hope-well of London. And of the strange deliverance of John Pye master, and nine men more; who were all examined and sworn to the following relation before Justice Wood of London. With allowance. Roger L'Estrange, March 30. 1672.</title>
+                  <author>Pye, John, Master.</author>
+                  <author>Jemson, Nathaniel.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Re-printed in the year, 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpiece; initial letter.</note>
+                  <note>The account given in the first person by John Pye.</note>
+                  <note>The preface, "A letter from a friend, in reference to the following relation," signed: Nathan Jemson.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions --  England --  Early works to 1800.</term>
+               <term>Shipwrecks --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179521:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 121 -->
+            <p>A True and Perfect ACCOUNT Of a Strange and Dreadful APPARITION VVhich lately Infeſted and Sunk a Ship bound for <hi>New-Caſtle,</hi> Called, <hi>The Hope-well of London.</hi>
+            </p>
+            <p>And of the Strange Deliverance of <hi>JOHN PYE</hi> MASTER, and Nine Men more; VVho were all Examined and Sworn to the following RELATION before Juſtice <hi>WOOD</hi> of <hi>London.</hi>
+            </p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>Roger L'Eſtrange,</hi> March 30. 1672.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed in the Year, 1672.</p>
+            <pb facs="tcp:179521:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 122 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:179521:3"/>
+            <!-- PDF PAGE 123 -->
+            <pb n="3" facs="tcp:179521:3"/>
+            <!-- PDF PAGE 123 -->
+            <head>A LETTER from a Friend, in reference to the following Relation.</head>
+            <opener>
+               <salute>
+                  <hi>Mr.</hi> Clavel:</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have ſent you encloſed, an account of a ſtrange Accident lately hapned in my journey, to a <hi>Newcaſtle</hi> Ship, called, <hi>The Hope-well of London,</hi> being Infeſted with an Apparition, and ſunk with a ſtroke of that influence, I wiſh it might be expoſed to publick view, being ſatisfied, that no<g ref="char:EOLhyphen"/>thing is exprest therein but the truth; hav<g ref="char:EOLhyphen"/>ing heard the Examination of the ſaid <hi>John Pye</hi> Maſter, and nine men, all belonging to the ſaid Ship, before the Mayor of <hi>Grims<g ref="char:EOLhyphen"/>by:</hi>
+               <pb n="4" facs="tcp:179521:4"/>
+               <!-- PDF PAGE 124 -->And ſince their arrival at <hi>London,</hi> I have received an account that they were not only examined, but all ſworn before Ju<g ref="char:EOLhyphen"/>ſtice <hi>Wood;</hi> and beſides all the concur<g ref="char:EOLhyphen"/>ring Circumstances of the whole number of men in the Ship, nothing can be more con<g ref="char:EOLhyphen"/>vincing, then of the Maſters face being burnt and blaſted, eſpecially on the left ſide. I hope to be with you in <hi>London</hi> ſhortly: I reſt,</p>
+            <closer>
+               <signed>Your Affectionat Friend, Nathan Jemſon.</signed>
+               <dateline>Grimsby <hi>in</hi> Hull River, <date>March <hi>27. 1672.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:179521:4"/>
+            <!-- PDF PAGE 124 -->
+            <head>A True and Perfect <hi>Relation</hi> of the Strange and Dreadful <hi>Apparition</hi> which lately Infeſted and Sunk a <hi>Ship</hi> bound for <hi>New-caſtle,</hi> called, <hi>The Hope-well of</hi> London.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He 22. of <hi>February,</hi> 1672 we ſailed from <hi>Graves<g ref="char:EOLhyphen"/>end;</hi> and the 26. by Gods Providence we ſailed over the Bar of <hi>Newcaſtle,</hi> and there Loaded the 2. of <hi>March.</hi> About Nine or Ten of the Clock in the Night following, we having made all clear and ready for the furtherance of our Voyage, ſome time after Supper I went to reſt, when about Twelve of the Clock in the Night, to the beſt of my remembrance, I was awaked out of my ſleep by a great noiſe, (but ſaw nothing) which to the beſt of my capacity, bid me <hi>Be gone, and that I had nothing to do there.</hi> But being ſo ha<g ref="char:EOLhyphen"/>ſtily diſturbed, and not certain what might be the cauſe, I gave it over for a Dream, and paſt that accident as uncertain of the truth. Now after the firſt Day was paſt, about Eight or Nine of the Clock at Night I went to reſt; and about twelve, my Mate was ſtriking a Light to take a Pipe of Tobacco, (as I ſuppoſe) and expecting the Wherry to go up to the Town, being the Tide fell out about Two in the Morning, I deſired the Candle might not be put out; and being as well awake as now I am, to the beſt of my judgement, I was then pulled by the Hair of my Head off from my Pillow, and the ſame words declared to me as be<g ref="char:EOLhyphen"/>fore;
+<pb n="6" facs="tcp:179521:5"/>
+               <!-- PDF PAGE 125 -->and then I ſaw the perfect face and proportion of a Man, in a black Hat, ſtuff Coat, and ſtriped Neck-cloth, with hanging down Hair, and a ſowre-down-looking Countenance, and his Teeth being ſet in his Head, I had then time to ſay, <hi>Lord have mercy upon me<g ref="char:punc">▪</g> What art?</hi> at which he vaniſhed: Yet the Candle burned very blew, and almoſt went out: Hereupon being much diſcontented, I did by the following Poſt give my Owners a juſt account of what had befaln me.</p>
+            <p>The Fifth of that inſtant, we ſet ſail: about four of the Clock in the day, the Wind at <hi>W. S. W.</hi> fair VVeather, and a brave Gale off the ſhore, which continued until half an hour after a Ele<g ref="char:EOLhyphen"/>ven on <hi>Wedneſday</hi> Night; at which time the man at the Helm called out that he could not ſtir the Helm: but after I had pul<g ref="char:EOLhyphen"/>led off the VVhip-ſtaff, the Ship ſteered as before, being ſtill fair VVeather, the VVind then coming to the <hi>N. W.</hi> and Snowing VVeather, but very fair and clear. I was yet doubtful of more VVind, and therefore cauſed the Men to furl the fore Top-ſail, and lower down the main Top-ſail upon the back of the main Sail, but could not with all the ſtrength we had hale in; the Weather brake off the fore Top-ſail, when this was ſtill in my judgement, that our Ship did hale as much, as when our Sails were out. Then we haled up our main Sail, and ſtill the Ship had the ſame liſt as with a large Wind, which to my judgment might be half a ſtreak or thereabout.</p>
+            <p>By this time it was Two of the Clock, then our Men tried the the Pump, and found little or no water in her: the Man at the Helm called out, That the Candle burned ſo blew in the Lan<g ref="char:EOLhyphen"/>thorn, That it gave little or no light, and three ſeveral times went out, ſo that I held the Candle to the Look-out, which Candle did burn very well, and ſhewed a good light; but of a ſuddain our Ship would not feel her Helm ſo kindly as before, and brought all our Sails aback. Then our Ship heeled as much to Windward as before to Leeward: the Glaſs being out, we went to the Pump, and found no water in the Ship, but ſhe did not ſteer well, neither could I find the reaſon, being ſtill ſo fair wea<g ref="char:EOLhyphen"/>ther: This unkind ſteerage, made me urgent to try the Pump yet more, but I could not get the upper box to work, nor ſtir; but having taken that up, and trying with the Pump-hook, we could not come near the lower box by a foot and a half, which to
+<pb n="7" facs="tcp:179521:5"/>
+               <!-- PDF PAGE 125 -->my judgement was hindred by ſomething like a Bull-fiſh, or Woolſack, that as we forced down, gave up again with the hook: Whereupon Miſtruſting that all was not well, I cauſed our men to keep the Coat of our pump up, and my ſelf looſned the tack; in the mean time <hi>I</hi> ordered two men to looſe the Boat, which they did, being laſhed in three places: Yet they do not remember to this hour, that they looſned any of them but the middlemoſt; and with three men in her, the Boat went over the top of the Fore-ſheet, which lay above the ſtem, without touching it, with ſuch violence, as even amazed us that ſaw it: And they that were in the Boat gave ſuch loud cryes, as frighted him at the Helm who came running out unknown to me. But then finding the ſhip coming nearer the wind then formerly, <hi>I</hi> ran to the ſtair-caſe, to bid him put the Helm over, but could not: And hearing one jump down at the hatch, which was open at the half Deck, did ſuppoſe that the Helms man came down again; and calling him by his name to come and help me, the word was no ſooner out of my mouth, but <hi>I</hi> perceived the ſame perſon that <hi>I</hi> had formerly ſeen before we came out of the Harbour; who came violently to me, ſaying, <hi>Be gone, you have no more to do here;</hi> throw<g ref="char:EOLhyphen"/>ing me in at the Cabbin door, clear upon the top of the table; when <hi>I</hi> crying out, <hi>In the name of God what art,</hi> he vaniſhed away in a flaſh of fire: thinking withal, that the ſhip had ſplit in a thou<g ref="char:EOLhyphen"/>ſand peeces, it giving ſuch a crack. The men thereupon calling out, <hi>Maſter if ye be a man come away,</hi> did ſomething revive me; and ſtriving to have got to my cheſt, being <hi>I</hi> had ſome money in it, <hi>I</hi> found that ſomething hindred me, but what it was <hi>I</hi> could not tell. Then perceiving the main Sea coming in ſo faſt, that <hi>I</hi> was up to the waſte, before <hi>I</hi> could get out of the Cabbin; and finding all our men in the Boat but only one, <hi>I</hi> deſired him to get a compaſs; which he did, yet could never after know what became of it. We were no ſooner in the Boat, but the Ship ſank down, and yet having a great Sea Fur Gown, which lay upon the dicker upon the ſhips going down, the very upſet of the water brought it to the Boats ſide, and one of our men took it in. We reckoned our ſelves to be ten or twelve Leagues E. S. E. From the ſpern, <hi>I</hi> perceived the Fane at the Main-top-maſt head, when the ſhip was ſunk: We continued in the Boat from three in the morning, till ten or eleven that day, when we were taken up by a <hi>Whitby</hi> Ketch, who uſed us very kindly, and towed our Boat
+<pb n="8" facs="tcp:179521:6"/>
+               <!-- PDF PAGE 126 -->at his ſtern with two ends of a hauſer, till ſhe brake away: She being bound for <hi>Newcaſtle,</hi> and the wind being contrary, did on the <hi>Saurday</hi> following, ſet us a ſhore at <hi>Grimsby</hi> in <hi>Hull</hi> River, where the Maior gave us a Paſs for <hi>London.</hi>
+            </p>
+            <p>This is a true and perfect relation to the beſt of my knowledge in every reſpect,</p>
+            <closer>
+               <signed>
+                  <hi>John Pye</hi> Maſter.</signed>
+               <signed>And atteſted by nine men more, all be<g ref="char:EOLhyphen"/>longing to my Ship.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>I Had forgot to expreſs, that one ſide of my face is burnt and blaſted ſorely, which I felt within half an hour after I was gone out of the Ship; but how it came upon me in the Ship I could not tell, being then in a great horror and amazement.</p>
+            <closer>
+               <signed>John Pye.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
